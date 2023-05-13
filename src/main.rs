@@ -270,12 +270,13 @@ impl Rule {
 
 fn main() {
     // Find the probabilities of each combination of effects when rolling 8 dice 1000 times
+    let iterations = 10_000;
     for goals in Rule::iter().combinations(2) {
         for reroll in 0..=3 {
+            let mut results = vec![];
             for goals in [&[goals[0], goals[1]], &[goals[1], goals[0]]] {
                 let mut pool = Pool::default();
                 // let goals = [Rule::RageFuel, Rule::WrathfulDevotion];
-                let iterations = 10_000;
                 let mut success = 0;
                 for _ in 0..iterations {
                     pool.roll_pool();
@@ -283,18 +284,20 @@ fn main() {
                         success += 1;
                     }
                 }
-                println!(
-                    "({:?}({}) & {:?}({})): {}/{} or {}% of the time with {} rerolls",
-                    &goals[0],
-                    &goals[0],
-                    &goals[1],
-                    &goals[1],
-                    success,
-                    iterations,
-                    (success as f64 / iterations as f64) * 100.0,
-                    reroll
-                );
+                results.push(success)
             }
+            let success = results.into_iter().max().unwrap();
+            println!(
+                "({:?}({}) & {:?}({})): {}/{} or {}% of the time with {} rerolls",
+                &goals[0],
+                &goals[0],
+                &goals[1],
+                &goals[1],
+                success,
+                iterations,
+                (success as f64 / iterations as f64) * 100.0,
+                reroll
+            );
         }
     }
 }
