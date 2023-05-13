@@ -137,6 +137,7 @@ pub enum Rule {
     WarpBlades,
     UnbridledBloodlust,
     AngryRon,
+    None,
 }
 
 impl Display for Rule {
@@ -149,6 +150,7 @@ impl Display for Rule {
             Rule::WarpBlades => write!(f, "Lethal Hits"),
             Rule::UnbridledBloodlust => write!(f, "Advance and Charge"),
             Rule::AngryRon => write!(f, "Res Angron"),
+            Rule::None => write!(f, "Nothing"),
         }
     }
 }
@@ -170,7 +172,7 @@ impl Rule {
                 // Any double
                 let mut ret = None;
                 for (dice_value, quantity) in pool {
-                    if *quantity == 2 {
+                    if *quantity >= 2 {
                         ret.replace(vec![ToRemove::new(*dice_value), ToRemove::new(*dice_value)]);
                         break;
                     }
@@ -264,13 +266,14 @@ impl Rule {
                 }
                 ret
             }
+            Rule::None => Some(vec![]),
         }
     }
 }
 
 fn main() {
     // Find the probabilities of each combination of effects when rolling 8 dice 1000 times
-    let iterations = 10_000;
+    let iterations = 100_000;
     for goals in Rule::iter().combinations(2) {
         for reroll in 0..=3 {
             let mut results = vec![];
