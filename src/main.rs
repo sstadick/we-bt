@@ -244,7 +244,7 @@ impl Rule {
                     if *dice_value == 6 && *quantity >= 2 {
                         ret.replace(vec![ToRemove::new(*dice_value), ToRemove::new(*dice_value)]);
                         break;
-                    } else if *quantity >= 3 {
+                    } else if *dice_value >= 4 && *quantity >= 3 {
                         ret.replace(vec![
                             ToRemove::new(*dice_value),
                             ToRemove::new(*dice_value),
