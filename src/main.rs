@@ -2,7 +2,7 @@ use std::fmt::Display;
 
 use indexmap::IndexMap;
 use itertools::Itertools;
-use rand::{rngs::ThreadRng, seq::SliceRandom, Rng};
+use rand::{rngs::ThreadRng, Rng};
 use strum::{EnumIter, IntoEnumIterator};
 
 #[derive(Debug, Clone)]
@@ -72,12 +72,21 @@ impl Pool {
 
     pub fn reroll(&mut self, n: u8) {
         // choose n dice to reroll
-        let mut range: Vec<_> = (0..self.dice.len()).collect();
-        let mut rng = rand::thread_rng();
-        range.shuffle(&mut rng);
-        let indexes = &range[0..n as usize];
+        // let mut range: Vec<_> = (0..self.dice.len()).collect();
+        // let mut rng = rand::thread_rng();
+        // range.shuffle(&mut rng);
+        // let indexes = &range[0..n as usize];
+        // Always reroll the lowest value dice
+        let indexes: Vec<_> = self
+            .dice
+            .iter()
+            .enumerate()
+            .sorted_by(|a, b| a.1.value.cmp(&b.1.value))
+            .map(|(i, _d)| i)
+            .take(n as usize)
+            .collect();
         for index in indexes {
-            self.dice[*index].roll();
+            self.dice[index].roll();
         }
         self.map.clear();
         self.dice.iter().for_each(|d| {
@@ -91,12 +100,17 @@ impl Pool {
         for goal in goals {
             let success = Self::check_goals_inner(&mut mod_map, *goal);
             if !success && rerolls > 0 {
+                // Create a temp poll based on values that haven't been removed yet
                 let mut tmp_pool = Pool::from_map(&mod_map);
+                // Reroll with that tmp pool
                 tmp_pool.reroll(rerolls);
                 let mut tmp_mod_map = tmp_pool.map.clone();
+                // look for the goal in the tmp pool
                 if !Self::check_goals_inner(&mut tmp_mod_map, *goal) {
                     return false;
                 } else {
+                    // if it was there, swap our temp pool out with the main search pool
+                    // and keep looking
                     std::mem::swap(&mut tmp_mod_map, &mut mod_map);
                     continue;
                 }

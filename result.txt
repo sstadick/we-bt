@@ -1,112 +1,112 @@
-(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 97575/100000 or 97.575% of the time with 0 rerolls
-(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 99595/100000 or 99.595% of the time with 1 rerolls
-(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 99880/100000 or 99.88% of the time with 2 rerolls
-(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 99940/100000 or 99.94% of the time with 3 rerolls
-(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 92759/100000 or 92.759% of the time with 0 rerolls
-(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 96582/100000 or 96.58200000000001% of the time with 1 rerolls
-(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 97822/100000 or 97.822% of the time with 2 rerolls
-(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 98497/100000 or 98.497% of the time with 3 rerolls
-(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 93368/100000 or 93.368% of the time with 0 rerolls
-(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 97957/100000 or 97.95700000000001% of the time with 1 rerolls
-(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 99076/100000 or 99.076% of the time with 2 rerolls
-(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 99388/100000 or 99.388% of the time with 3 rerolls
-(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 88222/100000 or 88.222% of the time with 0 rerolls
-(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 95175/100000 or 95.175% of the time with 1 rerolls
-(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 97458/100000 or 97.458% of the time with 2 rerolls
-(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 98299/100000 or 98.299% of the time with 3 rerolls
-(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 56954/100000 or 56.95400000000001% of the time with 0 rerolls
-(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 66178/100000 or 66.178% of the time with 1 rerolls
-(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 70980/100000 or 70.98% of the time with 2 rerolls
-(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 74330/100000 or 74.33% of the time with 3 rerolls
-(RageFuel(+2 inch move) & AngryRon(Res Angron)): 13176/100000 or 13.175999999999998% of the time with 0 rerolls
-(RageFuel(+2 inch move) & AngryRon(Res Angron)): 16687/100000 or 16.686999999999998% of the time with 1 rerolls
-(RageFuel(+2 inch move) & AngryRon(Res Angron)): 19077/100000 or 19.076999999999998% of the time with 2 rerolls
-(RageFuel(+2 inch move) & AngryRon(Res Angron)): 20262/100000 or 20.262% of the time with 3 rerolls
+(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 97698/100000 or 97.698% of the time with 0 rerolls
+(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 99598/100000 or 99.598% of the time with 1 rerolls
+(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 99861/100000 or 99.861% of the time with 2 rerolls
+(RageFuel(+2 inch move) & WrathfulDevotion(6+ FNP)): 99946/100000 or 99.946% of the time with 3 rerolls
+(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 92751/100000 or 92.75099999999999% of the time with 0 rerolls
+(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 96887/100000 or 96.887% of the time with 1 rerolls
+(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 98585/100000 or 98.585% of the time with 2 rerolls
+(RageFuel(+2 inch move) & MartialExcellence(Sustained Hits 1)): 99259/100000 or 99.259% of the time with 3 rerolls
+(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 93314/100000 or 93.314% of the time with 0 rerolls
+(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 98041/100000 or 98.041% of the time with 1 rerolls
+(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 99220/100000 or 99.22% of the time with 2 rerolls
+(RageFuel(+2 inch move) & TotalCarnage(4+ Fight on Death)): 99544/100000 or 99.544% of the time with 3 rerolls
+(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 88279/100000 or 88.279% of the time with 0 rerolls
+(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 95647/100000 or 95.647% of the time with 1 rerolls
+(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 97970/100000 or 97.97% of the time with 2 rerolls
+(RageFuel(+2 inch move) & WarpBlades(Lethal Hits)): 98790/100000 or 98.79% of the time with 3 rerolls
+(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 57122/100000 or 57.12199999999999% of the time with 0 rerolls
+(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 68026/100000 or 68.026% of the time with 1 rerolls
+(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 76495/100000 or 76.495% of the time with 2 rerolls
+(RageFuel(+2 inch move) & UnbridledBloodlust(Advance and Charge)): 82781/100000 or 82.781% of the time with 3 rerolls
+(RageFuel(+2 inch move) & AngryRon(Res Angron)): 13067/100000 or 13.067% of the time with 0 rerolls
+(RageFuel(+2 inch move) & AngryRon(Res Angron)): 17619/100000 or 17.619% of the time with 1 rerolls
+(RageFuel(+2 inch move) & AngryRon(Res Angron)): 22242/100000 or 22.242% of the time with 2 rerolls
+(RageFuel(+2 inch move) & AngryRon(Res Angron)): 27317/100000 or 27.317000000000004% of the time with 3 rerolls
 (RageFuel(+2 inch move) & None(Nothing)): 100000/100000 or 100% of the time with 0 rerolls
 (RageFuel(+2 inch move) & None(Nothing)): 100000/100000 or 100% of the time with 1 rerolls
 (RageFuel(+2 inch move) & None(Nothing)): 100000/100000 or 100% of the time with 2 rerolls
 (RageFuel(+2 inch move) & None(Nothing)): 100000/100000 or 100% of the time with 3 rerolls
-(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 92697/100000 or 92.697% of the time with 0 rerolls
-(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 96524/100000 or 96.524% of the time with 1 rerolls
-(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 97794/100000 or 97.794% of the time with 2 rerolls
-(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 98451/100000 or 98.451% of the time with 3 rerolls
-(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 93415/100000 or 93.415% of the time with 0 rerolls
-(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 97975/100000 or 97.975% of the time with 1 rerolls
-(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 99015/100000 or 99.015% of the time with 2 rerolls
-(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 99415/100000 or 99.41499999999999% of the time with 3 rerolls
-(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 88136/100000 or 88.13600000000001% of the time with 0 rerolls
-(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 95288/100000 or 95.288% of the time with 1 rerolls
-(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 97433/100000 or 97.433% of the time with 2 rerolls
-(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 98263/100000 or 98.263% of the time with 3 rerolls
-(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 56995/100000 or 56.995% of the time with 0 rerolls
-(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 66331/100000 or 66.33099999999999% of the time with 1 rerolls
-(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 71011/100000 or 71.011% of the time with 2 rerolls
-(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 74330/100000 or 74.33% of the time with 3 rerolls
-(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 13195/100000 or 13.195% of the time with 0 rerolls
-(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 16420/100000 or 16.42% of the time with 1 rerolls
-(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 18930/100000 or 18.93% of the time with 2 rerolls
-(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 20080/100000 or 20.080000000000002% of the time with 3 rerolls
+(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 92773/100000 or 92.77300000000001% of the time with 0 rerolls
+(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 96849/100000 or 96.84899999999999% of the time with 1 rerolls
+(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 98573/100000 or 98.573% of the time with 2 rerolls
+(WrathfulDevotion(6+ FNP) & MartialExcellence(Sustained Hits 1)): 99294/100000 or 99.29400000000001% of the time with 3 rerolls
+(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 93319/100000 or 93.319% of the time with 0 rerolls
+(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 98021/100000 or 98.021% of the time with 1 rerolls
+(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 99260/100000 or 99.26% of the time with 2 rerolls
+(WrathfulDevotion(6+ FNP) & TotalCarnage(4+ Fight on Death)): 99557/100000 or 99.557% of the time with 3 rerolls
+(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 88324/100000 or 88.324% of the time with 0 rerolls
+(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 95490/100000 or 95.49% of the time with 1 rerolls
+(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 98052/100000 or 98.05199999999999% of the time with 2 rerolls
+(WrathfulDevotion(6+ FNP) & WarpBlades(Lethal Hits)): 98746/100000 or 98.746% of the time with 3 rerolls
+(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 56894/100000 or 56.894% of the time with 0 rerolls
+(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 67855/100000 or 67.855% of the time with 1 rerolls
+(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 76086/100000 or 76.086% of the time with 2 rerolls
+(WrathfulDevotion(6+ FNP) & UnbridledBloodlust(Advance and Charge)): 82919/100000 or 82.919% of the time with 3 rerolls
+(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 13015/100000 or 13.014999999999999% of the time with 0 rerolls
+(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 17627/100000 or 17.627000000000002% of the time with 1 rerolls
+(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 22482/100000 or 22.482% of the time with 2 rerolls
+(WrathfulDevotion(6+ FNP) & AngryRon(Res Angron)): 27391/100000 or 27.391% of the time with 3 rerolls
 (WrathfulDevotion(6+ FNP) & None(Nothing)): 100000/100000 or 100% of the time with 0 rerolls
 (WrathfulDevotion(6+ FNP) & None(Nothing)): 100000/100000 or 100% of the time with 1 rerolls
 (WrathfulDevotion(6+ FNP) & None(Nothing)): 100000/100000 or 100% of the time with 2 rerolls
 (WrathfulDevotion(6+ FNP) & None(Nothing)): 100000/100000 or 100% of the time with 3 rerolls
-(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 70466/100000 or 70.466% of the time with 0 rerolls
-(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 81965/100000 or 81.965% of the time with 1 rerolls
-(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 87567/100000 or 87.567% of the time with 2 rerolls
-(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 90583/100000 or 90.583% of the time with 3 rerolls
-(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 67521/100000 or 67.521% of the time with 0 rerolls
-(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 79361/100000 or 79.361% of the time with 1 rerolls
-(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 84975/100000 or 84.975% of the time with 2 rerolls
-(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 87958/100000 or 87.958% of the time with 3 rerolls
-(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 41769/100000 or 41.769% of the time with 0 rerolls
-(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 52900/100000 or 52.900000000000006% of the time with 1 rerolls
-(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 60045/100000 or 60.045% of the time with 2 rerolls
-(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 64813/100000 or 64.813% of the time with 3 rerolls
-(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 10197/100000 or 10.197000000000001% of the time with 0 rerolls
-(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 14241/100000 or 14.241000000000001% of the time with 1 rerolls
-(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 16741/100000 or 16.741% of the time with 2 rerolls
-(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 18681/100000 or 18.681% of the time with 3 rerolls
-(MartialExcellence(Sustained Hits 1) & None(Nothing)): 94262/100000 or 94.262% of the time with 0 rerolls
-(MartialExcellence(Sustained Hits 1) & None(Nothing)): 96796/100000 or 96.796% of the time with 1 rerolls
-(MartialExcellence(Sustained Hits 1) & None(Nothing)): 97987/100000 or 97.987% of the time with 2 rerolls
-(MartialExcellence(Sustained Hits 1) & None(Nothing)): 98437/100000 or 98.437% of the time with 3 rerolls
-(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 59466/100000 or 59.465999999999994% of the time with 0 rerolls
-(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 74573/100000 or 74.57300000000001% of the time with 1 rerolls
-(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 81787/100000 or 81.78699999999999% of the time with 2 rerolls
-(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 85336/100000 or 85.336% of the time with 3 rerolls
-(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 40565/100000 or 40.565% of the time with 0 rerolls
-(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 53006/100000 or 53.006% of the time with 1 rerolls
-(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 60377/100000 or 60.377% of the time with 2 rerolls
-(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 64892/100000 or 64.89200000000001% of the time with 3 rerolls
-(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 9725/100000 or 9.725% of the time with 0 rerolls
-(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 14055/100000 or 14.055000000000001% of the time with 1 rerolls
-(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 16836/100000 or 16.836000000000002% of the time with 2 rerolls
-(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 18891/100000 or 18.891% of the time with 3 rerolls
+(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 70057/100000 or 70.057% of the time with 0 rerolls
+(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 83559/100000 or 83.55900000000001% of the time with 1 rerolls
+(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 91354/100000 or 91.354% of the time with 2 rerolls
+(MartialExcellence(Sustained Hits 1) & TotalCarnage(4+ Fight on Death)): 94833/100000 or 94.833% of the time with 3 rerolls
+(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 67408/100000 or 67.408% of the time with 0 rerolls
+(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 81906/100000 or 81.906% of the time with 1 rerolls
+(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 90658/100000 or 90.658% of the time with 2 rerolls
+(MartialExcellence(Sustained Hits 1) & WarpBlades(Lethal Hits)): 94351/100000 or 94.351% of the time with 3 rerolls
+(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 42200/100000 or 42.199999999999996% of the time with 0 rerolls
+(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 56336/100000 or 56.336% of the time with 1 rerolls
+(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 69302/100000 or 69.30199999999999% of the time with 2 rerolls
+(MartialExcellence(Sustained Hits 1) & UnbridledBloodlust(Advance and Charge)): 78613/100000 or 78.613% of the time with 3 rerolls
+(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 10183/100000 or 10.183% of the time with 0 rerolls
+(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 15592/100000 or 15.592% of the time with 1 rerolls
+(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 21325/100000 or 21.325% of the time with 2 rerolls
+(MartialExcellence(Sustained Hits 1) & AngryRon(Res Angron)): 26877/100000 or 26.877000000000002% of the time with 3 rerolls
+(MartialExcellence(Sustained Hits 1) & None(Nothing)): 94417/100000 or 94.417% of the time with 0 rerolls
+(MartialExcellence(Sustained Hits 1) & None(Nothing)): 97137/100000 or 97.137% of the time with 1 rerolls
+(MartialExcellence(Sustained Hits 1) & None(Nothing)): 98612/100000 or 98.612% of the time with 2 rerolls
+(MartialExcellence(Sustained Hits 1) & None(Nothing)): 99365/100000 or 99.36500000000001% of the time with 3 rerolls
+(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 59630/100000 or 59.63% of the time with 0 rerolls
+(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 76786/100000 or 76.786% of the time with 1 rerolls
+(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 86932/100000 or 86.932% of the time with 2 rerolls
+(TotalCarnage(4+ Fight on Death) & WarpBlades(Lethal Hits)): 91083/100000 or 91.083% of the time with 3 rerolls
+(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 40734/100000 or 40.733999999999995% of the time with 0 rerolls
+(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 55825/100000 or 55.825% of the time with 1 rerolls
+(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 68228/100000 or 68.228% of the time with 2 rerolls
+(TotalCarnage(4+ Fight on Death) & UnbridledBloodlust(Advance and Charge)): 76659/100000 or 76.659% of the time with 3 rerolls
+(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 9672/100000 or 9.672% of the time with 0 rerolls
+(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 15569/100000 or 15.568999999999999% of the time with 1 rerolls
+(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 21215/100000 or 21.215% of the time with 2 rerolls
+(TotalCarnage(4+ Fight on Death) & AngryRon(Res Angron)): 26564/100000 or 26.564% of the time with 3 rerolls
 (TotalCarnage(4+ Fight on Death) & None(Nothing)): 97325/100000 or 97.32499999999999% of the time with 0 rerolls
-(TotalCarnage(4+ Fight on Death) & None(Nothing)): 99146/100000 or 99.146% of the time with 1 rerolls
-(TotalCarnage(4+ Fight on Death) & None(Nothing)): 99615/100000 or 99.615% of the time with 2 rerolls
-(TotalCarnage(4+ Fight on Death) & None(Nothing)): 99773/100000 or 99.773% of the time with 3 rerolls
-(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 32903/100000 or 32.903% of the time with 0 rerolls
-(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 44912/100000 or 44.912% of the time with 1 rerolls
-(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 52529/100000 or 52.529% of the time with 2 rerolls
-(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 57432/100000 or 57.432% of the time with 3 rerolls
-(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 7994/100000 or 7.994% of the time with 0 rerolls
-(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 12169/100000 or 12.169% of the time with 1 rerolls
-(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 15002/100000 or 15.001999999999999% of the time with 2 rerolls
-(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 17074/100000 or 17.074% of the time with 3 rerolls
-(WarpBlades(Lethal Hits) & None(Nothing)): 92608/100000 or 92.608% of the time with 0 rerolls
-(WarpBlades(Lethal Hits) & None(Nothing)): 96819/100000 or 96.819% of the time with 1 rerolls
-(WarpBlades(Lethal Hits) & None(Nothing)): 98155/100000 or 98.155% of the time with 2 rerolls
-(WarpBlades(Lethal Hits) & None(Nothing)): 98726/100000 or 98.726% of the time with 3 rerolls
-(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 4363/100000 or 4.363% of the time with 0 rerolls
-(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 6899/100000 or 6.898999999999999% of the time with 1 rerolls
-(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 9035/100000 or 9.035% of the time with 2 rerolls
-(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 10644/100000 or 10.644% of the time with 3 rerolls
-(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 59501/100000 or 59.501000000000005% of the time with 0 rerolls
-(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 66894/100000 or 66.89399999999999% of the time with 1 rerolls
-(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 71606/100000 or 71.60600000000001% of the time with 2 rerolls
-(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 74637/100000 or 74.637% of the time with 3 rerolls
-(AngryRon(Res Angron) & None(Nothing)): 13462/100000 or 13.462% of the time with 0 rerolls
-(AngryRon(Res Angron) & None(Nothing)): 16807/100000 or 16.807% of the time with 1 rerolls
-(AngryRon(Res Angron) & None(Nothing)): 18827/100000 or 18.826999999999998% of the time with 2 rerolls
-(AngryRon(Res Angron) & None(Nothing)): 20296/100000 or 20.296% of the time with 3 rerolls
+(TotalCarnage(4+ Fight on Death) & None(Nothing)): 99217/100000 or 99.217% of the time with 1 rerolls
+(TotalCarnage(4+ Fight on Death) & None(Nothing)): 99783/100000 or 99.783% of the time with 2 rerolls
+(TotalCarnage(4+ Fight on Death) & None(Nothing)): 99881/100000 or 99.881% of the time with 3 rerolls
+(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 32870/100000 or 32.87% of the time with 0 rerolls
+(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 47576/100000 or 47.576% of the time with 1 rerolls
+(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 60552/100000 or 60.55199999999999% of the time with 2 rerolls
+(WarpBlades(Lethal Hits) & UnbridledBloodlust(Advance and Charge)): 69568/100000 or 69.568% of the time with 3 rerolls
+(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 8101/100000 or 8.100999999999999% of the time with 0 rerolls
+(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 13494/100000 or 13.494% of the time with 1 rerolls
+(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 19689/100000 or 19.689% of the time with 2 rerolls
+(WarpBlades(Lethal Hits) & AngryRon(Res Angron)): 25051/100000 or 25.051000000000002% of the time with 3 rerolls
+(WarpBlades(Lethal Hits) & None(Nothing)): 92649/100000 or 92.649% of the time with 0 rerolls
+(WarpBlades(Lethal Hits) & None(Nothing)): 96928/100000 or 96.928% of the time with 1 rerolls
+(WarpBlades(Lethal Hits) & None(Nothing)): 98720/100000 or 98.72% of the time with 2 rerolls
+(WarpBlades(Lethal Hits) & None(Nothing)): 99269/100000 or 99.26899999999999% of the time with 3 rerolls
+(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 4315/100000 or 4.315% of the time with 0 rerolls
+(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 8189/100000 or 8.189% of the time with 1 rerolls
+(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 14104/100000 or 14.104% of the time with 2 rerolls
+(UnbridledBloodlust(Advance and Charge) & AngryRon(Res Angron)): 20422/100000 or 20.422% of the time with 3 rerolls
+(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 59358/100000 or 59.358% of the time with 0 rerolls
+(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 68779/100000 or 68.779% of the time with 1 rerolls
+(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 76579/100000 or 76.579% of the time with 2 rerolls
+(UnbridledBloodlust(Advance and Charge) & None(Nothing)): 82916/100000 or 82.916% of the time with 3 rerolls
+(AngryRon(Res Angron) & None(Nothing)): 13516/100000 or 13.516% of the time with 0 rerolls
+(AngryRon(Res Angron) & None(Nothing)): 18002/100000 or 18.002000000000002% of the time with 1 rerolls
+(AngryRon(Res Angron) & None(Nothing)): 22543/100000 or 22.543% of the time with 2 rerolls
+(AngryRon(Res Angron) & None(Nothing)): 27319/100000 or 27.319% of the time with 3 rerolls
